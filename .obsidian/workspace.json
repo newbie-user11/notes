@@ -179,6 +179,8 @@
   },
   "active": "40343105bf8b1ad7",
   "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
     "PortSwigger/GraphQL API Vulnerabilities/Performing CSRF Exploits Over GraphQL.md~RF2dd8a711.TMP",
     "PortSwigger/Cross Site Scripting (XSS)/Reflected XSS - Blocked Tags and Attributes.md~RF2dd89de9.TMP",
     "PortSwigger/Cross Origin Resource Sharing (CORS)/CORS Trusted Null Origin.md~RF2dd89723.TMP",
