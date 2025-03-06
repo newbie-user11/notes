@@ -14,7 +14,5 @@ Privilege escalation by accessing account belonging to nathan to find API key.
 		`import os` 
 		`os.setuid(0)` *here 0 corresponds to root user id*
 		`os.system("/bin/bash")`
-
-**Bonus Information**
-- `help` command reveals all allowed commands on port. `man` followed by command name opens its manual page.
+- With root access, enter *root* directory then open .txt file containing API key.
 
