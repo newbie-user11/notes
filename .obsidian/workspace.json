@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/What Is What/Benefits of POST over GET Request.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benefits of POST over GET Request"
+              "title": "README"
             }
           }
         ]
@@ -94,31 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/clientURL Command and Man In The Middle Attack.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for clientURL Command and Man In The Middle Attack"
-            }
-          },
-          {
-            "id": "40343105bf8b1ad7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "HackTheBox/What Is What/Benefits of POST over GET Request.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Benefits of POST over GET Request"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -140,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/What Is What/Benefits of POST over GET Request.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Benefits of POST over GET Request"
+              "title": "Outline of README"
             }
           },
           {
@@ -160,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,9 +163,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40343105bf8b1ad7",
+  "active": "c065bd6cf0731c67",
   "lastOpenFiles": [
+    "OverTheWire/Bandit/Level 2 to 3.md",
+    "PortSwigger/Access Control Vulnerabilities/Referer-Based Access Control.md",
+    "PortSwigger/Access Control Vulnerabilities/Method-Based Access Control Can Be Circumvented.md",
+    "PortSwigger/101 ESSENTIAL SKILLS/Scanning Non-Standard Data Structures.md",
+    "PortSwigger/101 ESSENTIAL SKILLS/Discovering Vulnerabilities Quickly with Targeted Scanning.md",
+    "PortSwigger/Cross Site Request Forgery (CSRF)/CSRF Bypassing Referrer Validation.md",
+    "Template",
+    "New folder",
     "README.md",
+    "HackTheBox/What Is What/Benefits of POST over GET Request.md",
     "LICENSE",
     "PortSwigger/GraphQL API Vulnerabilities/Performing CSRF Exploits Over GraphQL.md~RF2dd8a711.TMP",
     "PortSwigger/Cross Site Scripting (XSS)/Reflected XSS - Blocked Tags and Attributes.md~RF2dd89de9.TMP",
@@ -205,18 +200,10 @@
     "Pasted image 20250117191951.png",
     "HackTheBox/What Is What/DNS Zone Transfer.md",
     "HackTheBox/What Is What/Metasploit Tool.md",
-    "HackTheBox/What Is What/Response Codes.md",
-    "HackTheBox/What Is What/Request Methods.md",
-    "zone transfer.md",
-    "HackTheBox/What Is What/URL Encoding.md",
-    "HackTheBox/What Is What/Benefits of POST over GET Request.md",
-    "HackTheBox/What Is What/Using Burp Intruder.md",
-    "HackTheBox/What Is What/Proxy Setup And Listening In.md",
     "HackTheBox/What Is What",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "PortSwigger/Web Cache Deception",
-    "HackTheBox/Boxes"
+    "PortSwigger/Web Cache Deception"
   ]
 }
