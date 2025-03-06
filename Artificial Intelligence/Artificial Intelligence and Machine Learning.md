@@ -1,0 +1,3 @@
+**Artificial Intelligence (AI)** is the ability of a computer or machine to mimic human cognitive function. Utilising algorithms and predictive modelling based on data, AI performs tasks associated with human intelligence. Such as learning, problem-solving, and decision-making. 
+
+**Machine Learning (ML)** is an approach to train a machine or computer to learn from data without explicit programming. Training it to train itself using provided data.

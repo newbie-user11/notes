@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a7a59873eab351eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f73efc99c5f9a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d363242cccf7e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Level 25 to 26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bec4a7c049e7fe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "246e7985dffeb088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "950f3dafbaea18df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66766d151ab269e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0dea78fce3c9c9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "afeff844f7e96827",
+    "type": "split",
+    "children": [
+      {
+        "id": "049421aa4a923272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef12883e1ba1618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bandit/Level 25 to 26.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320e37ddd679af1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bandit/Level 25 to 26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba5302819511a46f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0efeb8de43508021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bandit/Level 25 to 26.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d363242cccf7e01",
+  "lastOpenFiles": [
+    "Bandit/Level 1 to 2.md",
+    "Bandit/Level 0 to 1.md",
+    "Bandit/Level 25 to 26.md",
+    "Bandit/Level 13 to 14.md",
+    "Bandit/Level 14 to 15.md",
+    "Bandit/Level 15 to 16.md",
+    "Bandit/Level 16 to 17.md",
+    "Bandit/Level 17 to 18.md",
+    "Bandit/Level 19 to 20.md",
+    "Bandit/Level 18 to 19.md",
+    "Bandit/Level 20 to 21.md",
+    "Bandit/Level 21 to 22.md",
+    "Bandit/Level 22 to 23.md",
+    "Bandit/Level 23 to 24.md",
+    "Bandit/Level 24 to 25.md",
+    "Bandit/Level 12 to 13.md",
+    "Bandit/Level 11 to 12.md",
+    "Bandit/Level 10 to 11.md",
+    "Bandit/Level 9 to 10.md",
+    "Bandit/Level 8 to 9.md",
+    "Bandit/Level 7 to 8.md",
+    "Bandit/Level 6 to 7.md",
+    "Bandit/Level 5 to 6.md",
+    "Bandit/Level 4 to 5.md",
+    "Bandit/Level 3 to 4.md",
+    "Bandit/Level 2 to 3.md",
+    "Bandit",
+    "Over The Wire - Bandit"
+  ]
+}

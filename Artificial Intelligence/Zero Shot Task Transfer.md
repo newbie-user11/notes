@@ -1,0 +1,3 @@
+Zero-shot task transfer is a machine learning technique where a model trained on one set of tasks can perform on a completely *unseen* task without any specific training examples for that new task. 
+The model leverages its existing knowledge from initial training to generalise and make predictions on the new task. 
+Essentially, it's like learning to ride a bicycle and then being able to ride a motorcycle without ever having ridden one before – transferable skill.

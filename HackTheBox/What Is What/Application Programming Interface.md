@@ -1,0 +1,1 @@
+Application Programming Interface (API). Think of API as a bridge between different software. This bridge allows for communication in the form of data exchange. For instance, YouTube has an API. This API allows different video editing software to upload directly to one's YouTube channel. Microsoft Clipchamp has this functionality through YouTube's API.

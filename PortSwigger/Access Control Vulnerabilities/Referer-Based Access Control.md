@@ -1,0 +1,19 @@
+*This information is only for the purposes of education and skills development. GET and POST are not acronyms.*
+
+**Objective**
+Promote own account to become administrator by reusing a request to promote a different account.
+
+**Point of Entry**
+POST request issued for promoting user Carlos while logged in as admin.
+
+**Barrier to Entry**
+- Login to administrator account using provided details and promote Carlos under admin panel.
+- Send the POST request issued to Burp Repeater. 
+- Open another user session in incognito mode and login as wiener. 
+- Attempt going to the URL which was displayed when upgrading Carlos's account - `/admin-roles?username=carlos&action=upgrade`.
+- Observe that the POST request issued does not contain a referer header, unlike the request issued by admin account which contained a referer header.
+ 
+**Bypassing Barrier to Entry**
+- Copy the cookie from this session.
+- Return to the POST request in Repeater, replace the session cookie of the request. Change username from carlos to wiener. 
+- Send request to upgrade own account to admin.

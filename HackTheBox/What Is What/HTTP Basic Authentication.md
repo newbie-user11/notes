@@ -1,0 +1,1 @@
+User credentials are validated by the webserver being accessed. No direct interaction with web application occurs.
