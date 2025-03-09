@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Boxes/Cap.md",
+                "file": "HackTheBox/Hardware Exploitation/Debugging Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap"
+              "title": "Debugging Interface"
             }
           }
         ],
@@ -194,11 +194,13 @@
   },
   "active": "ceeb4f7b73be5aa7",
   "lastOpenFiles": [
+    "HackTheBox/Hardware Exploitation",
+    "HackTheBox/Boxes/Cap.md",
+    "HackTheBox/Hardware Exploitation/Debugging Interface.md",
     "HackTheBox/Boxes/Fawn.md",
     "HackTheBox/Boxes/Meow.md",
     "HackTheBox/Boxes/Redeemer.md",
     "HackTheBox/Boxes/Dancing.md",
-    "HackTheBox/Boxes/Cap.md",
     "README.md",
     "OverTheWire/Bandit/Level 2 to 3.md",
     "PortSwigger/Access Control Vulnerabilities/Referer-Based Access Control.md",
@@ -226,8 +228,6 @@
     "Artificial Intelligence",
     "HackTheBox/What Is What/Information Gathering.md",
     "HackTheBox/What Is What/Hypertext Transfer Protocol (HTTP) and Man In The Middle Attack.md",
-    "HackTheBox/What Is What/HTTP Basic Authentication.md",
-    "HackTheBox/What Is What/Headers in HTTP Requests.md",
     "Pasted image 20250117191951.png",
     "HackTheBox/What Is What",
     "Untitled.canvas",
