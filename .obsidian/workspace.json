@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Boxes/Dancing.md",
+                "file": "HackTheBox/Hardware Exploitation/Low Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dancing"
+              "title": "Low Logic"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/What Is What/Fuzzing.md",
+                "file": "HackTheBox/Hardware Exploitation/Debugging Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuzzing"
+              "title": "Debugging Interface"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,93 +92,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1180d39d71b2fd28",
     "type": "split",
-    "children": [
-      {
-        "id": "85fc645ebea80c24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be28f9e936d3034d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for README"
-            }
-          },
-          {
-            "id": "a57a73b31f01d145",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "6cff4bc4dd9c614a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "ca7663dce39a8933",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "8a415fd1eac72a4d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from README"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,16 +114,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceeb4f7b73be5aa7",
+  "active": "c065bd6cf0731c67",
   "lastOpenFiles": [
+    "chip 1.jpg",
+    "chip.jpg",
     "HackTheBox/Hardware Exploitation/Debugging Interface.md",
+    "HackTheBox/Hardware Exploitation/Low Logic.md",
+    "HackTheBox/Boxes/Dancing.md",
     "HackTheBox/What Is What/Fuzzing.md",
     "HackTheBox/Hardware Exploitation",
     "HackTheBox/Boxes/Cap.md",
     "HackTheBox/Boxes/Fawn.md",
     "HackTheBox/Boxes/Meow.md",
     "HackTheBox/Boxes/Redeemer.md",
-    "HackTheBox/Boxes/Dancing.md",
     "README.md",
     "OverTheWire/Bandit/Level 2 to 3.md",
     "PortSwigger/Access Control Vulnerabilities/Referer-Based Access Control.md",
@@ -227,8 +152,6 @@
     "Artificial Intelligence/Artificial Intelligence.md",
     "Artificial Intelligence/Welcome.md",
     "Artificial Intelligence",
-    "HackTheBox/What Is What/Information Gathering.md",
-    "HackTheBox/What Is What/Hypertext Transfer Protocol (HTTP) and Man In The Middle Attack.md",
     "Pasted image 20250117191951.png",
     "HackTheBox/What Is What",
     "Untitled.canvas",
