@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/What Is What/Java Script Obfuscation.md",
+                "file": "HackTheBox/What Is What/Document Object Model (DOM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Script Obfuscation"
+              "title": "Document Object Model (DOM)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/What Is What/Fuzzing.md",
+                "file": "HackTheBox/What Is What/Document Object Model (DOM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fuzzing"
+              "title": "Backlinks for Document Object Model (DOM)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HackTheBox/What Is What/Fuzzing.md",
+                "file": "HackTheBox/What Is What/Document Object Model (DOM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fuzzing"
+              "title": "Outgoing links from Document Object Model (DOM)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HackTheBox/What Is What/Fuzzing.md",
+                "file": "HackTheBox/What Is What/Document Object Model (DOM).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fuzzing"
+              "title": "Outline of Document Object Model (DOM)"
             }
           }
         ]
@@ -172,41 +172,41 @@
   "active": "ceeb4f7b73be5aa7",
   "lastOpenFiles": [
     "HackTheBox/What Is What/Fuzzing.md",
-    "HackTheBox/What Is What/Java Script Obfuscation.md",
-    "HackTheBox/Hardware Exploitation/Low Logic.md",
+    "HackTheBox/What Is What/Untitled.md",
+    "HackTheBox/What Is What/Headers in HTTP Requests.md",
+    "HackTheBox/What Is What/Hypertext Transfer Protocol (HTTP) and Man In The Middle Attack.md",
+    "HackTheBox/What Is What/Metasploit Tool.md",
+    "HackTheBox/What Is What/Using Burp Intruder.md",
+    "HackTheBox/What Is What/URL Encoding.md",
+    "HackTheBox/What Is What/Target Scanning and Crawling.md",
+    "HackTheBox/What Is What/Subdomain Brute Force Enumeration.md",
+    "HackTheBox/What Is What/Response Codes.md",
+    "HackTheBox/What Is What/Request Methods.md",
+    "HackTheBox/What Is What/Proxy Setup And Listening In.md",
+    "HackTheBox/What Is What/Information Gathering.md",
     "HackTheBox/Hardware Exploitation/Debugging Interface.md",
-    "chip 1.jpg",
+    "HackTheBox/Hardware Exploitation/Low Logic.md",
+    "README.md",
     "chip.jpg",
+    "chip 1.jpg",
+    "HackTheBox/What Is What/Java Script Obfuscation.md",
     "HackTheBox/Boxes/Dancing.md",
     "HackTheBox/Hardware Exploitation",
     "HackTheBox/Boxes/Cap.md",
     "HackTheBox/Boxes/Fawn.md",
     "HackTheBox/Boxes/Meow.md",
     "HackTheBox/Boxes/Redeemer.md",
-    "README.md",
     "OverTheWire/Bandit/Level 2 to 3.md",
     "PortSwigger/Access Control Vulnerabilities/Referer-Based Access Control.md",
     "PortSwigger/Access Control Vulnerabilities/Method-Based Access Control Can Be Circumvented.md",
     "PortSwigger/101 ESSENTIAL SKILLS/Scanning Non-Standard Data Structures.md",
-    "PortSwigger/101 ESSENTIAL SKILLS/Discovering Vulnerabilities Quickly with Targeted Scanning.md",
-    "PortSwigger/Cross Site Request Forgery (CSRF)/CSRF Bypassing Referrer Validation.md",
     "Template",
     "New folder",
-    "HackTheBox/What Is What/Benefits of POST over GET Request.md",
     "LICENSE",
     "PortSwigger/GraphQL API Vulnerabilities/Performing CSRF Exploits Over GraphQL.md~RF2dd8a711.TMP",
     "PortSwigger/Cross Site Scripting (XSS)/Reflected XSS - Blocked Tags and Attributes.md~RF2dd89de9.TMP",
     "PortSwigger/Cross Origin Resource Sharing (CORS)/CORS Trusted Null Origin.md~RF2dd89723.TMP",
     "PortSwigger/Clickjacking/Multistep Clickjacking to Delete Account.md~RF2dd89639.TMP",
-    "HackTheBox/What Is What/Application Programming Interface.md",
-    "Artificial Intelligence/Artificial Intelligence and Machine Learning.md",
-    "Artificial Intelligence/Transformer.md",
-    "Artificial Intelligence/Zero Shot Task Transfer.md",
-    "Artificial Intelligence/General Artificial Intelligence.md",
-    "HackTheBox/What Is What/Subdomain Brute Force Enumeration.md",
-    "Artificial Intelligence/Untitled.md",
-    "Artificial Intelligence/Artificial Intelligence.md",
-    "Artificial Intelligence/Welcome.md",
     "Artificial Intelligence",
     "Pasted image 20250117191951.png",
     "HackTheBox/What Is What",
